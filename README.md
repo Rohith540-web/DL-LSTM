@@ -199,11 +199,11 @@ for w_id, true_tag, pred_tag in zip(X_test[i], y_test[i], preds):
 
 ## Loss Vs Epoch Plot
 
-
+<a href="https://ibb.co/vvLf7zTG"><img src="https://i.ibb.co/BKTvXsQx/Screenshot-2026-03-15-130729.png" alt="Screenshot-2026-03-15-130729" border="0"></a>
 
 ### Sample Text Prediction
 
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/whdTGJKq/Screenshot-2026-03-15-130418.png" alt="Screenshot 2026 03 15 130418" border="0"></a>
 
 ## RESULT
 Thus, an LSTM-based model for recognizing the named entities in the text has been developed successfully.
